@@ -8,8 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div> testing new one and its good development branch
-            testing more dev
+        <div> dev
         </div>
     </form>
 </body>
