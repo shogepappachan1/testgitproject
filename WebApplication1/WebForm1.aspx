@@ -8,8 +8,12 @@
 </head>
 <body>
     <form id="form1" runat="server">
+<<<<<<< HEAD
         <div> testing new one and its good development branch
             testing more dev
+=======
+        <div> test conflict TEST
+>>>>>>> main
         </div>
     </form>
 </body>
